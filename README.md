@@ -1,2 +1,2 @@
 # MyFirstPrj
-This is just training repositray
+This is just training repository
